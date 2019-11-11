@@ -1,6 +1,7 @@
 *.iml
 .idea
 .mvn/
+.DS_Store
 mvnw.cmd
 target
 bower_components
